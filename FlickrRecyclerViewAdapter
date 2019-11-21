@@ -33,7 +33,6 @@ class FlickrRecyclerViewAdapter extends RecyclerView.Adapter<FlickrRecyclerViewA
 
     @Override
     public void onBindViewHolder(FlickrImageViewHolder holder, int position) {
-        // Called by the layout manager when it wants new data in an existing row
 
         if((mPhotosList == null) || (mPhotosList.size() == 0)) {
             holder.thumbnail.setImageResource(R.drawable.placeholder);
