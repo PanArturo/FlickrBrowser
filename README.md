@@ -6,11 +6,11 @@ Search for high quality photos and enjoy pictures from the vast community of Fli
 
 Created using:
 
-              Flickr API
+              - Flickr API
               
-              Java
+              - Java
               
-              Android Studio
+              - Android Studio
 
 # Techniques
 
@@ -28,7 +28,7 @@ Created using:
 
 2. Android Documentation and API:
 
-                                  - Recycler view
+                                 - Recycler view
 
                                  - Parse Json
                                  
