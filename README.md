@@ -4,26 +4,31 @@ An Android application showing photos retrieved from Flickr upon requests from s
 
 Search for high quality photos and enjoy pictures from the vast community of Flickr!
 
-Created using Flickr API
+Created using:
+
+              Flickr API
               
               Java
               
               Android Studio
 
-Techniques
+# Techniques
 
-1. Java fundamentals - Inheritance
+1. Java fundamentals:
+
+                     - Inheritance
 
                      - Polymorphism
                      
                      - Abstraction
                      
-                     - Interfaces
-                     
+                     - Interfaces                  
                      
                      - ...
 
-2. Android Documentation and API - Recycler view
+2. Android Documentation and API:
+
+                                  - Recycler view
 
                                  - Parse Json
                                  
