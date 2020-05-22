@@ -1,8 +1,10 @@
 # Image-Feed-Browser
 
-An Android application showing photos retrieved from Flickr upon requests from searching.
+An Android application showing photos retrieved from Flickr upon user search requests.
 
-Search for high quality photos and enjoy pictures from the vast community of Flickr!
+Search for high quality photos from Flickr.
+
+Showing thumbnails of the pictures and magnify the selected picture.
 
 Created using:
 
