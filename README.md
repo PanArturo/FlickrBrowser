@@ -1,47 +1,19 @@
 # Image-Feed-Browser
 
-An Android application showing photos retrieved from Flickr upon user search requests.
+An Android mobile application for searching images by fetching and parsing data using Flickr API.
 
-Search for high quality photos from Flickr.
+## Languages & Tools
 
-Showing thumbnails of the pictures and magnify the selected picture.
-
-Created using:
-
-              - Flickr API
-              
               - Java
-              
-              - Android Studio
+                  - Flickr API
+                  - Fetch and Parse JSON data
+                  - Async Task
+                  
+              - Android Studio  
+                  - Recycler View
+                  - Gesture Detector
+                  - Search View
+                  - Events handling
+                
 
-# Techniques
 
-1. Java fundamentals:
-
-                     - Inheritance
-
-                     - Polymorphism
-                     
-                     - Abstraction
-                     
-                     - Interfaces                  
-                     
-                     - ...
-
-2. Android Documentation and API:
-
-                                 - Recycler view
-
-                                 - Parse Json
-                                 
-                                 - Handle Events
-                                 
-                                 - Getting raw data
-                                 
-                                 - Async Task
-                                 
-                                 - Gesture Detector
-                                 
-                                 - Search View
-
-3. Solidified Good code practices.
