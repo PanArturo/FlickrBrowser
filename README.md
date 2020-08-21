@@ -1,4 +1,4 @@
-# Image-Feed-Browser
+# Flickr Browser
 
 An Android mobile application for searching images by fetching and parsing data using Flickr API.
 
